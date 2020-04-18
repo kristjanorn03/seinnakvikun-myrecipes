@@ -1,1 +1,1 @@
-# seinnakvikun-myrecipes
+# svg-myrecipes
