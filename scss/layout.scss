@@ -30,12 +30,6 @@
     justify-content: center;
     list-style-type: none;
 }
-.auglysing {
-    grid-area: auglysing;
-    border: dotted black 1px;
-    text-align: center;
-    padding: 1em;
-}
 .splashlogo {
     grid-area: splashlogo;
 }
@@ -88,12 +82,6 @@
             "splashlogo auglysing"
             "kynning auglysing";
     }
-    .auglysing {
-        grid-area: auglysing;
-        border: dotted black 1px;
-        text-align: center;
-        padding: 1em;
-    }
     .splashlogo {
         grid-area: splashlogo;
     }
@@ -142,12 +130,6 @@
         grid-template-areas:
             "splashlogo auglysing"
             "kynning auglysing";
-    }
-    .auglysing {
-        grid-area: auglysing;
-        border: dotted black 1px;
-        text-align: center;
-        padding: 1em;
     }
     .splashlogo {
         grid-area: splashlogo;
