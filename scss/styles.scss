@@ -92,5 +92,9 @@ div .imgs {
     padding-top: 1em;
     padding-bottom: 1em;
 }
-// ná í stílsíðuna
+.b-icon {
+    background: url("../img/hot_plain_bread.svg") bottom right no-repeat;
+    padding-right: 20em; 
+}
+// ná í stílsíðuna 
 @import "layout","socialButts","iconfonts","advert"; 
