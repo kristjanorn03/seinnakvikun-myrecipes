@@ -5,18 +5,18 @@ $bgcolor: rgb(177, 199, 166);
 body {
     background-color: $bgcolor;
     font-family: $font;
-}
+}  
 h1, h2, h3 {
     color: $fontcolor;
 } 
 .imgs {
     max-width: 100%;
-    height: auto; 
+    height: auto;  
 }
 div .imgs {
     display: block;
 }
-.img {
+img {
     max-width:100%;
     height:auto;
 } 
