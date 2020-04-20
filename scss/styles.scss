@@ -16,7 +16,8 @@ h1, h2, h3 {
 div .imgs {
     display: block;
 }
-.img {
+// ath! ekki .img 
+img {
     max-width:100%;
     height:auto;
 } 
@@ -97,4 +98,4 @@ div .imgs {
     padding-right: 20em;  
 }
 // ná í stílsíðuna 
-@import "layout","socialButts","iconfonts","advert"; 
+@import "layout","socialButts","iconfonts","advert";
